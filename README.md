@@ -1,2 +1,3 @@
 # hello-world
-usua repository
+usual repository
+Im a programer
